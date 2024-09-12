@@ -46,7 +46,7 @@ jhgyguhjh
 */
 
 /*
-The try block is hte second commit
+The try block is the second commit
 
 */
 
