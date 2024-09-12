@@ -41,3 +41,7 @@ public class VowelCount {
         scanner.close();
     }
 }
+/*
+hgfhggkj
+jhgyguhjh
+*/
