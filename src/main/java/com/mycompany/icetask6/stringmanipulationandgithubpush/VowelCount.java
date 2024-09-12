@@ -40,6 +40,16 @@ public class VowelCount {
     }
 }
 /*
+This is for the first commit
 hgfhggkj
 jhgyguhjh
+*/
+
+/*
+The try block is hte second commit
+
+*/
+
+/*
+These comments are the third commit
 */
