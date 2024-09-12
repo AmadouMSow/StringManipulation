@@ -29,7 +29,7 @@ public class VowelCount {
         // Create a Scanner object to take input from the user
         Scanner scanner = new Scanner(System.in);
         
-        // Ask the user to input a string
+        // Ask lthe user to input a string
         System.out.println("Please enter a sentence:");
         String userInput = scanner.nextLine();
         
